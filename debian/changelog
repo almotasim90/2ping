@@ -1,5 +1,5 @@
-2ping (4.3-1) unstable; urgency=medium
+2ping (4.3-1) stable; urgency=medium
 
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
 
- -- Almo Alrahbi <almotasim90@gmail.com>  Sat, 09 Oct 2021 11:49:32 +0000
+ -- Almo Alrahbi <almotasim90@gmail.com>  Sat, 09 Oct 2021 11:55:19 +0000
